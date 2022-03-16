@@ -1,7 +1,7 @@
 {
     "tasks": [
         {
-            "type": "cppbuild",
+            "type": "shell",
             "label": "C/C++: g++ générer le fichier actif",
             "command": "/usr/bin/g++",
             "args": [
