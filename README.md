@@ -1,18 +1,18 @@
 #### A propos
+
 Ce dépôt contient un workspace préconfiguré pour développer des programmes C++ sur une machine linux.
 
-Le workspace intègre également le nécessaire pour documenter le code avec Doxygen.
 
 
 #### Prérequis
+
 Les éléments suivants doivent être installés sur la machine linux :
 
 - le compilateur *g++*,
 - le débogueur *gdb*,
-- doxygen
 
-```bash 
-sudo apt install g++ gdb doxygen doxygen-gui
+```bash
+sudo apt install g++ gdb
 ```
 
 #### Remarques
